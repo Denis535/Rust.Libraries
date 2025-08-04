@@ -1,0 +1,28 @@
+# Project
+edition = "2018"
+style_edition = "2024"
+version = "One"
+required_version = "1.8.0"
+
+# Indentation
+hard_tabs = false
+tab_spaces = 4
+indent_style = "Block"
+
+# New Line
+newline_style = "Windows"
+
+# Blank Lines
+blank_lines_lower_bound = 0
+blank_lines_upper_bound = 0
+
+# Comments
+normalize_comments = false
+normalize_doc_attributes = false
+wrap_comments = false
+format_code_in_doc_comments = false
+
+# Misc
+use_small_heuristics = "Off"
+empty_item_single_line = false
+fn_single_line = false

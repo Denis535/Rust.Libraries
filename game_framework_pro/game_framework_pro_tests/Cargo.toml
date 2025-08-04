@@ -1,0 +1,7 @@
+[package]
+name = "game_framework_pro_tests"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+game_framework_pro = { path = "../game_framework_pro" }

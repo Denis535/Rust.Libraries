@@ -1,0 +1,6 @@
+[package]
+name = "game_framework_pro"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
