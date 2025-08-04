@@ -1,8 +1,5 @@
-use std::*;
+#![cfg(test)]
 use crate::game_framework_pro::program::*;
-use crate::game_framework_pro::ui::*;
-use crate::game_framework_pro::app::*;
-use crate::game_framework_pro::game::*;
 
 #[test]
 fn test_00() {

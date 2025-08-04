@@ -1,9 +1,8 @@
-use std::*;
-use std::rc::*;
-use std::cell::*;
-use crate::game_framework_pro::program::*;
+use crate::std::rc::*;
+use crate::std::cell::*;
+use crate::std::option::*;
+use crate::std::clone::*;
 use crate::game_framework_pro::app::*;
-use crate::game_framework_pro::game::*;
 
 pub struct Theme {
     router: Weak<RefCell<Router>>,
@@ -54,8 +53,8 @@ pub struct Router {
 impl Router {
     pub fn new(application: Weak<RefCell<Application>>) -> Router {
         Router {
-            theme: None,
-            screen: None,
+            theme: Option::None,
+            screen: Option::None,
             application,
         }
     }
@@ -63,13 +62,13 @@ impl Router {
         self.theme.as_ref().unwrap().clone()
     }
     pub fn set_theme(&mut self, theme: Weak<RefCell<Theme>>) {
-        self.theme = Some(theme);
+        self.theme = Option::Some(theme);
     }
     pub fn screen(&self) -> Weak<RefCell<Screen>> {
         self.screen.as_ref().unwrap().clone()
     }
     pub fn set_screen(&mut self, screen: Weak<RefCell<Screen>>) {
-        self.screen = Some(screen);
+        self.screen = Option::Some(screen);
     }
     pub fn application(&self) -> Weak<RefCell<Application>> {
         self.application.clone()

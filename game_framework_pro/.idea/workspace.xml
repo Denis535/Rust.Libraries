@@ -22,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_03_game.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_03_game.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/mod.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/tests_00.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/tests_00.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

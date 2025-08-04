@@ -1,9 +1,7 @@
-use std::*;
-use std::rc::*;
-use std::cell::*;
+use crate::std::rc::*;
+use crate::std::cell::*;
 use crate::game_framework_pro::ui::*;
 use crate::game_framework_pro::app::*;
-use crate::game_framework_pro::game::*;
 
 pub struct Program {
     theme: Rc<RefCell<Theme>>,

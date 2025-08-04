@@ -1,8 +1,6 @@
-use std::*;
-use std::rc::*;
-use std::cell::*;
-use crate::game_framework_pro::program::*;
-use crate::game_framework_pro::ui::*;
+use crate::std::rc::*;
+use crate::std::cell::*;
+use crate::std::option::*;
 use crate::game_framework_pro::game::*;
 
 pub struct Application {
@@ -12,7 +10,7 @@ pub struct Application {
 impl Application {
     pub fn new() -> Application {
         Application {
-            game: Some(Rc::new(RefCell::new(Game::new()))),
+            game: Option::Some(Rc::new(RefCell::new(Game::new()))),
         }
     }
     pub fn game(&self) -> Option<Weak<RefCell<Game>>> {
