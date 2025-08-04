@@ -16,14 +16,14 @@
   <component name="ChangeListManager">
     <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_framework_pro/src/game_framework_pro/mod.rs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_00_program.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_00_program.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_01_ui.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_01_ui.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_02_app.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_02_app.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_03_game.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_03_game.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro/src/game_framework_pro.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/tests_00.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/tests_00.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/game_framework_pro",
+    "last_opened_file_path": "D:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,11 +80,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src" />
       <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src\game_framework_pro" />
       <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src\game_framework_pro" />
-      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src" />
       <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src\game_framework_pro" />
     </key>
   </component>
