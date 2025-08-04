@@ -1,9 +1,9 @@
 use std::*;
 use std::rc::*;
 use std::cell::*;
-use crate::game_framework_pro::_00_program::*;
-use crate::game_framework_pro::_02_app::*;
-use crate::game_framework_pro::_03_game::*;
+use crate::game_framework_pro::program::*;
+use crate::game_framework_pro::app::*;
+use crate::game_framework_pro::game::*;
 
 pub struct Theme {
     router: Weak<RefCell<Router>>,

@@ -1,8 +1,8 @@
 use std::*;
 use std::rc::*;
-use crate::game_framework_pro::_00_program::*;
-use crate::game_framework_pro::_01_ui::*;
-use crate::game_framework_pro::_02_app::*;
+use crate::game_framework_pro::program::*;
+use crate::game_framework_pro::ui::*;
+use crate::game_framework_pro::app::*;
 
 pub struct Game {}
 

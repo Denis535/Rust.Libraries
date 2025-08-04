@@ -1,9 +1,9 @@
 use std::*;
 use std::rc::*;
 use std::cell::*;
-use crate::game_framework_pro::_00_program::*;
-use crate::game_framework_pro::_01_ui::*;
-use crate::game_framework_pro::_03_game::*;
+use crate::game_framework_pro::program::*;
+use crate::game_framework_pro::ui::*;
+use crate::game_framework_pro::game::*;
 
 pub struct Application {
     game: Option<Rc<RefCell<Game>>>,
