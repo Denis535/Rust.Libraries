@@ -1,10 +1,13 @@
 pub struct Application {
+    #[allow(dead_code)]
+    base: ApplicationBase,
     game: Option<Rc<RefCell<Game>>>,
 }
 
 impl Application {
     pub fn new() -> Application {
         Application {
+            base: ApplicationBase::new(),
             game: Option::Some(Rc::new(RefCell::new(Game::new()))),
         }
     }
