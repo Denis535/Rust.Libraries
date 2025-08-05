@@ -1,16 +1,16 @@
 #![no_implicit_prelude]
 
 extern crate std;
+extern crate game_framework_pro;
 
-pub mod game_framework_pro {
-    use crate::std::rc::*;
-    use crate::std::cell::*;
-    use crate::std::option::*;
-    use crate::std::clone::*;
+use std::rc::*;
+use std::cell::*;
+use std::option::*;
+use std::clone::*;
+use game_framework_pro::*;
 
-    include!("game_framework_pro/_00_program/program.rs");
-    include!("game_framework_pro/_01_ui/ui.rs");
-    include!("game_framework_pro/_02_app/app.rs");
-    include!("game_framework_pro/_03_game/game.rs");
-    pub mod tests_00;
-}
+include!("_00_program/program.rs");
+include!("_01_ui/ui.rs");
+include!("_02_app/app.rs");
+include!("_03_game/game.rs");
+pub mod tests_00;

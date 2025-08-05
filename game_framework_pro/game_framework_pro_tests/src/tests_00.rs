@@ -1,7 +1,7 @@
 #![cfg(test)]
 
-use crate::std::boxed::*;
-use crate::game_framework_pro::*;
+use std::boxed::*;
+use crate::*;
 
 #[test]
 fn test_00() {
