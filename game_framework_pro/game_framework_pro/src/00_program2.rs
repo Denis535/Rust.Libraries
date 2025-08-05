@@ -1,11 +1,3 @@
-pub struct ProgramBase {}
-
-impl ProgramBase {
-    pub fn new() -> ProgramBase {
-        ProgramBase {}
-    }
-}
-
 pub struct ProgramBase2<TTheme, TScreen, TRouter, TApplication> {
     base: ProgramBase,
     theme: Rc<RefCell<TTheme>>,

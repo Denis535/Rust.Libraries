@@ -7,7 +7,9 @@ use std::cell::*;
 use std::option::*;
 use std::clone::*;
 
-include!("_00_program/program.rs");
-include!("_01_ui/ui.rs");
-include!("_02_app/app.rs");
-include!("_03_game/game.rs");
+include!("00_program.rs");
+include!("00_program2.rs");
+include!("01_ui.rs");
+include!("01_ui2.rs");
+include!("02_app.rs");
+include!("03_game.rs");

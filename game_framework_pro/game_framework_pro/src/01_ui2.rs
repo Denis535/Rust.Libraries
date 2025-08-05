@@ -1,11 +1,3 @@
-pub struct ThemeBase {}
-
-impl ThemeBase {
-    pub fn new() -> ThemeBase {
-        ThemeBase {}
-    }
-}
-
 pub struct ThemeBase2<TRouter, TApplication> {
     base: ThemeBase,
     router: Weak<RefCell<TRouter>>,
@@ -34,14 +26,6 @@ impl<TRouter, TApplication> ThemeBase2<TRouter, TApplication> {
     }
 }
 
-pub struct ScreenBase {}
-
-impl ScreenBase {
-    pub fn new() -> ScreenBase {
-        ScreenBase {}
-    }
-}
-
 pub struct ScreenBase2<TRouter, TApplication> {
     base: ScreenBase,
     router: Weak<RefCell<TRouter>>,
@@ -67,14 +51,6 @@ impl<TRouter, TApplication> ScreenBase2<TRouter, TApplication> {
     }
     pub fn application(&self) -> Weak<RefCell<TApplication>> {
         self.application.clone()
-    }
-}
-
-pub struct RouterBase {}
-
-impl RouterBase {
-    pub fn new() -> RouterBase {
-        RouterBase {}
     }
 }
 
