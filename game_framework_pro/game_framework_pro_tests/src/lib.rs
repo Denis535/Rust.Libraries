@@ -7,6 +7,7 @@ use std::rc::*;
 use std::cell::*;
 use std::option::*;
 use game_framework_pro::*;
+use game_framework_pro::extensions::*;
 
 include!("00_program.rs");
 include!("01_ui.rs");
