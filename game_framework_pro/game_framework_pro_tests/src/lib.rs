@@ -3,15 +3,16 @@
 extern crate std;
 extern crate game_framework_pro;
 
-use std::rc::*;
-use std::cell::*;
-use std::option::*;
-use game_framework_pro::*;
-use game_framework_pro::extensions::*;
-
-include!("00_program.rs");
-include!("01_ui.rs");
-include!("02_app.rs");
-include!("03_game.rs");
+pub mod framework {
+    use crate::std::rc::*;
+    use crate::std::cell::*;
+    use crate::std::option::*;
+    use crate::game_framework_pro::framework::*;
+    use crate::game_framework_pro::framework::extensions::*;
+    include!("framework/00_program.rs");
+    include!("framework/01_ui.rs");
+    include!("framework/02_app.rs");
+    include!("framework/03_game.rs");
+}
 
 pub mod tests_00;
