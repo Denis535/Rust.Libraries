@@ -15,14 +15,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro/src/game_framework_pro/mod.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_00_program.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_00_program.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_01_ui.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_01_ui.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_02_app.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_02_app.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_03_game.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_03_game.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro/src/game_framework_pro.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/tests_00.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/tests_00.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +56,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -74,7 +70,7 @@
     "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
     "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/game_framework_pro/program.rs": "true",
     "org.rust.first.attach.projects": "true",
-    "settings.editor.selected.configurable": "inlay.hints",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Rust",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -112,6 +108,7 @@
       <workItem from="1754231817063" duration="1795000" />
       <workItem from="1754233661980" duration="15169000" />
       <workItem from="1754291289353" duration="900000" />
+      <workItem from="1754375086207" duration="2435000" />
     </task>
     <servers />
   </component>
