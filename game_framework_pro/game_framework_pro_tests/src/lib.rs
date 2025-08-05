@@ -6,7 +6,6 @@ extern crate game_framework_pro;
 use std::rc::*;
 use std::cell::*;
 use std::option::*;
-use std::clone::*;
 use game_framework_pro::*;
 
 include!("_00_program/program.rs");

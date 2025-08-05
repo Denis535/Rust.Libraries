@@ -15,14 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/_00_program/program.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_00_program/program.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_01_ui/ui.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/_01_ui/ui.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_02_app/app.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/_02_app/app.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/_03_game/game.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/_03_game/game.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/game_framework_pro/tests_00.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/tests_00.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_framework_pro/src/_01_ui/ui.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro/src/_01_ui/ui.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/_00_program/program.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/_00_program/program.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/_01_ui/ui.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/_01_ui/ui.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game_framework_pro_tests/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game_framework_pro_tests/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +141,7 @@
       <workItem from="1754233661980" duration="15169000" />
       <workItem from="1754291289353" duration="900000" />
       <workItem from="1754375086207" duration="10957000" />
-      <workItem from="1754391126108" duration="852000" />
+      <workItem from="1754391126108" duration="3467000" />
     </task>
     <servers />
   </component>
