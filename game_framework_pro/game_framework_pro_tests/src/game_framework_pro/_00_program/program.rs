@@ -1,8 +1,3 @@
-use crate::std::rc::*;
-use crate::std::cell::*;
-use crate::game_framework_pro::ui::*;
-use crate::game_framework_pro::app::*;
-
 pub struct ProgramBase {}
 
 impl ProgramBase {

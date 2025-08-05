@@ -1,9 +1,3 @@
-use crate::std::rc::*;
-use crate::std::cell::*;
-use crate::std::option::*;
-use crate::std::clone::*;
-use crate::game_framework_pro::app::*;
-
 pub struct Theme {
     router: Weak<RefCell<Router>>,
     application: Weak<RefCell<Application>>,
