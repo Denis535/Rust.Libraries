@@ -1,7 +1,5 @@
-pub struct Game {
-    #[allow(dead_code)]
-    base: GameBase,
-}
+#[child_of(GameBase)]
+pub struct Game {}
 
 impl Game {
     pub fn new() -> Game {

@@ -1,5 +1,5 @@
+#[child_of(ProgramBase)]
 pub struct ProgramBase2<TTheme, TScreen, TRouter, TApplication> {
-    base: ProgramBase,
     theme: Rc<RefCell<TTheme>>,
     screen: Rc<RefCell<TScreen>>,
     router: Rc<RefCell<TRouter>>,

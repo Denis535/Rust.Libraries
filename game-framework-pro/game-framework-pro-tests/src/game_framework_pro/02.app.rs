@@ -1,6 +1,5 @@
+#[child_of(ApplicationBase)]
 pub struct Application {
-    #[allow(dead_code)]
-    base: ApplicationBase,
     game: Option<Rc<RefCell<Game>>>,
 }
 

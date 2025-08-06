@@ -16,17 +16,21 @@
   <component name="ChangeListManager">
     <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/00_program.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/00.program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/01_ui.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/01.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/02_app.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/02.app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/03_game.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/03.game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/00.program" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/00.program.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/01.ui" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/01.ui.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/02.app" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/02.app.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/03.game" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/03.game.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/tests_00.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/tests_00.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro.extensions/00_program.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro.extensions/00.program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro.extensions/01_ui.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro.extensions/01.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/00_program.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/00.program" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/01_ui.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/01.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/02_app.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/02.app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/03_game.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/03.game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro.extensions/00.program" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro.extensions/00.program.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro.extensions/01.ui" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro.extensions/01.ui.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/00.program" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/00.program.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/01.ui" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/01.ui.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/02.app" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/02.app.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/03.game" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/03.game.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game-framework-pro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +83,16 @@
     "nodejs_package_manager_path": "npm",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
     "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/00.program.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/01.ui.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/02.app.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/03.game.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro.extensions/00.program.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro.extensions/01.ui.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/00.program.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/01.ui.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/02.app.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/03.game.rs": "true",
     "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/01_ui2.rs": "true",
     "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/_00_program/program.rs": "true",
     "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/_00_program/program.rs": "true",
@@ -134,7 +148,8 @@
       <workItem from="1754465323975" duration="47000" />
       <workItem from="1754471186297" duration="53000" />
       <workItem from="1754493038366" duration="19000" />
-      <workItem from="1754500593576" duration="609000" />
+      <workItem from="1754500593576" duration="2049000" />
+      <workItem from="1754502695690" duration="1527000" />
     </task>
     <servers />
   </component>

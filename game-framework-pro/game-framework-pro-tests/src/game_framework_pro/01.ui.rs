@@ -1,7 +1,5 @@
-pub struct Theme {
-    #[allow(dead_code)]
-    base: ThemeBase2<Router, Application>,
-}
+#[child_of(ThemeBase2<Router, Application>)]
+pub struct Theme {}
 
 impl Theme {
     pub fn new(router: Weak<RefCell<Router>>, application: Weak<RefCell<Application>>) -> Theme {
@@ -11,10 +9,8 @@ impl Theme {
     }
 }
 
-pub struct Screen {
-    #[allow(dead_code)]
-    base: ScreenBase2<Router, Application>,
-}
+#[child_of(ScreenBase2<Router, Application>)]
+pub struct Screen {}
 
 impl Screen {
     pub fn new(router: Weak<RefCell<Router>>, application: Weak<RefCell<Application>>) -> Screen {
@@ -24,9 +20,8 @@ impl Screen {
     }
 }
 
-pub struct Router {
-    base: RouterBase2<Theme, Screen, Application>,
-}
+#[child_of(RouterBase2<Theme, Screen, Application>)]
+pub struct Router {}
 
 impl Router {
     pub fn new(application: Weak<RefCell<Application>>) -> Router {

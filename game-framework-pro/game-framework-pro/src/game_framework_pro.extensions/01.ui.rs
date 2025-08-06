@@ -1,5 +1,5 @@
+#[child_of(ThemeBase)]
 pub struct ThemeBase2<TRouter, TApplication> {
-    base: ThemeBase,
     router: Weak<RefCell<TRouter>>,
     application: Weak<RefCell<TApplication>>,
 }
@@ -26,8 +26,8 @@ impl<TRouter, TApplication> ThemeBase2<TRouter, TApplication> {
     }
 }
 
+#[child_of(ScreenBase)]
 pub struct ScreenBase2<TRouter, TApplication> {
-    base: ScreenBase,
     router: Weak<RefCell<TRouter>>,
     application: Weak<RefCell<TApplication>>,
 }
@@ -54,8 +54,8 @@ impl<TRouter, TApplication> ScreenBase2<TRouter, TApplication> {
     }
 }
 
+#[child_of(RouterBase)]
 pub struct RouterBase2<TTheme, TScreen, TApplication> {
-    base: RouterBase,
     theme: Option<Weak<RefCell<TTheme>>>,
     screen: Option<Weak<RefCell<TScreen>>>,
     application: Weak<RefCell<TApplication>>,

@@ -1,7 +1,5 @@
-pub struct Program {
-    #[allow(dead_code)]
-    base: ProgramBase2<Theme, Screen, Router, Application>,
-}
+#[child_of(ProgramBase2<Theme, Screen, Router, Application>)]
+pub struct Program {}
 
 impl Program {
     pub fn new() -> Program {
