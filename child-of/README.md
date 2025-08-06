@@ -1,7 +1,7 @@
 # Overview
 
 A library that allows you to make one struct a child of another.
-That is, the ```#[child_of(Base)]``` attribute simply adds a ```base``` field to your struct.
+The ```#[child_of(Base)]``` attribute clearly marks your struct as a child of Base and implicitly declares a private ```base``` field.
 
 # Example
 

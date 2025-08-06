@@ -15,24 +15,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../child_of/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/.idea/game_framework_pro.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/.idea/runConfigurations/Test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/Cargo.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/child_of/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/child_of/src/lib.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/child_of_tests/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/child_of_tests/src/lib.rs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../child_of/child_of_tests/src/tests_00.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +122,7 @@
       <workItem from="1754465388822" duration="4113000" />
       <workItem from="1754469757176" duration="1401000" />
       <workItem from="1754471240804" duration="8146000" />
-      <workItem from="1754489224619" duration="962000" />
+      <workItem from="1754489224619" duration="1604000" />
     </task>
     <servers />
   </component>
