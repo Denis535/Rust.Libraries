@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/game_framework_pro/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/game_framework_pro_tests/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/child_of/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/child_of_tests/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

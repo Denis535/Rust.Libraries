@@ -1,5 +1,6 @@
 [workspace]
 members = [
-    "child_of"
+    "child_of",
+    "child_of_tests"
 ]
 resolver = "2"
