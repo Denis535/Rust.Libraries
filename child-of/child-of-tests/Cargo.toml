@@ -1,7 +1,7 @@
 [package]
-name = "child_of_tests"
+name = "child-of-tests"
 version = "1.0.0"
 edition = "2021"
 
 [dependencies]
-child_of = { path = "../child_of" }
+child-of = { path = "../child-of" }

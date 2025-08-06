@@ -11,9 +11,7 @@ impl Base {
 }
 
 #[child_of(Base)]
-struct Child {
-    //base: Base, - field is implicitly declared by #[child_of(Base)] attribute
-}
+struct Child {}
 
 impl Child {
     pub fn new() -> Child {

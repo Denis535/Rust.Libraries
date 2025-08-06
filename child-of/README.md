@@ -1,6 +1,7 @@
 # Overview
 
 A library that allows you to make one struct a child of another.
+That is, the ```#[child_of(Base)]``` attribute simply adds a ```base``` field to your struct.
 
 # Example
 
@@ -15,9 +16,9 @@ impl Base {
     }
 }
 
-#[child_of(Base)]
+#[child_of(Base)] This attribute marks the "Child" struct as a child of the "Base" struct.
 struct Child {
-    //base: Base, - field is implicitly declared by #[child_of(Base)] attribute
+    base: Base, // This field is implicitly declared by the #[child_of(Base)] attribute.
 }
 
 impl Child {
@@ -37,5 +38,5 @@ impl Child {
 
 # Links
 
-- https://github.com/Denis535/Rust.Libraries/tree/main/child_of
-- https://crates.io/crates/child_of
+- https://github.com/Denis535/Rust.Libraries/tree/main/child-of
+- https://crates.io/crates/child-of

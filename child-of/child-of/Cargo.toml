@@ -1,12 +1,12 @@
 [package]
-name = "child_of"
+name = "child-of"
 version = "1.0.0"
 edition = "2021"
 authors = ["Denis535"]
 description = "A library that allows you to make one struct a child of another."
 readme = "../README.md"
 license = "MIT"
-repository = "https://github.com/Denis535/Rust.Libraries/tree/main/child_of"
+repository = "https://github.com/Denis535/Rust.Libraries/tree/main/child-of"
 categories = ["development-tools"]
 keywords = ["OOP", "inheritance"]
 

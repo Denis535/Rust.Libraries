@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "child_of"
+name = "child-of"
 version = "1.0.0"
 dependencies = [
  "proc-macro2",
@@ -12,10 +12,10 @@ dependencies = [
 ]
 
 [[package]]
-name = "child_of_tests"
+name = "child-of-tests"
 version = "1.0.0"
 dependencies = [
- "child_of",
+ "child-of",
 ]
 
 [[package]]
