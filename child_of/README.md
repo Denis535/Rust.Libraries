@@ -1,5 +1,10 @@
-#![cfg(test)]
+# Overview
 
+A library that allows you to make one struct a child of another.
+
+# Example
+
+```
 use crate::child_of::*;
 
 struct Base {}
@@ -21,17 +26,15 @@ impl Child {
             base: Base::new(),
         }
     }
-    #[allow(dead_code)]
     pub fn base(&self) -> &Base {
         &self.base
     }
-    #[allow(dead_code)]
     pub fn base_mut(&mut self) -> &mut Base {
         &mut self.base
     }
 }
+```
 
-#[test]
-fn test_00() {
-    let _ = Child::new();
-}
+# Links
+
+- https://github.com/Denis535/Rust.Libraries/tree/main/child_of
