@@ -1,0 +1,27 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="AUTODETECT_INDENTS" value="false" />
+    <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+    <option name="RIGHT_MARGIN" value="1000" />
+    <RsCodeStyleSettings>
+      <option name="ALIGN_RET_TYPE" value="false" />
+      <option name="ALIGN_WHERE_BOUNDS" value="false" />
+      <option name="MIN_NUMBER_OF_BLANKS_BETWEEN_ITEMS" value="1" />
+      <option name="MAX_NUMBER_OF_BLANKS_BETWEEN_VALUE_PARAMETERS" value="0" />
+      <option name="MAX_NUMBER_OF_BLANKS_BETWEEN_FIELD_PATTERNS" value="0" />
+      <option name="PRESERVE_END_OF_LINE_COMMENTS_ON_THE_SAME_LINE" value="false" />
+      <option name="WHERE_ON_NEW_LINE" value="false" />
+      <option name="NEW_LINE_AFTER_WHERE" value="false" />
+      <option name="DO_NOT_FORMAT_RUSTFMT_SKIP" value="false" />
+    </RsCodeStyleSettings>
+    <codeStyleSettings language="Rust">
+      <option name="RIGHT_MARGIN" value="1000" />
+      <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+      <option name="KEEP_LINE_BREAKS" value="false" />
+      <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+      <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
+      <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+      <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>

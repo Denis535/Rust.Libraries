@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$/child_of">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:dev" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="m6TH6TvA" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30ldwPx0PUc6LPoQFYWPW9io8dY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cargo.Run.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test tests_00.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Rust.Libraries/child_of&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/01_ui2.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/_00_program/program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/_00_program/program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/game_framework_pro/program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/tests_00.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src\game_framework_pro" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src\game_framework_pro" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src\framework" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src\framework" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src\extensions" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src" />
+    </key>
+  </component>
+  <component name="RsExternalLinterProjectSettings">
+    <option name="runOnTheFly" value="false" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="RustfmtProjectSettings">
+    <option name="useRustfmt2" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="" />
+      <created>1754206330336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754206330336</updated>
+      <workItem from="1754206335971" duration="391000" />
+      <workItem from="1754206763599" duration="8167000" />
+      <workItem from="1754222822278" duration="262000" />
+      <workItem from="1754223116932" duration="8440000" />
+      <workItem from="1754231817063" duration="1795000" />
+      <workItem from="1754233661980" duration="15169000" />
+      <workItem from="1754291289353" duration="900000" />
+      <workItem from="1754375086207" duration="10957000" />
+      <workItem from="1754391126108" duration="5542000" />
+      <workItem from="1754400448814" duration="4930000" />
+      <workItem from="1754465388822" duration="4113000" />
+      <workItem from="1754469757176" duration="1401000" />
+      <workItem from="1754471240804" duration="2852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

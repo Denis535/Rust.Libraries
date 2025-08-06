@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "child_of"
+]
+resolver = "2"
