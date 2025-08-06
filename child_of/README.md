@@ -38,3 +38,4 @@ impl Child {
 # Links
 
 - https://github.com/Denis535/Rust.Libraries/tree/main/child_of
+- https://crates.io/crates/child_of
