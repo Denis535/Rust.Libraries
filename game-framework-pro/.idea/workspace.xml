@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$/game-framework-pro">
+        <enabledFeature name="default" />
+      </package>
+      <package file="$PROJECT_DIR$/game-framework-pro-tests">
+        <enabledFeature name="default" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../child-of/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../child-of/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/.idea/game_framework_pro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/.idea/runConfigurations/Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro/src/game_framework_pro.extensions/00_program.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro/src/game_framework_pro.extensions/01_ui.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro/src/game_framework_pro/00_program.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro/src/game_framework_pro/01_ui.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro/src/game_framework_pro/02_app.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro/src/game_framework_pro/03_game.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro/src/lib.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro_tests/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro_tests/src/game_framework_pro/00_program.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro_tests/src/game_framework_pro/01_ui.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro_tests/src/game_framework_pro/02_app.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro_tests/src/game_framework_pro/03_game.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro_tests/src/lib.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../game_framework_pro/game_framework_pro_tests/src/tests_00.rs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="RsBuildProfile:test" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="m6TH6TvA" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30ldwPx0PUc6LPoQFYWPW9io8dY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cargo.Run.executor": "Run",
+    "Cargo.Test tests_00.executor": "Run",
+    "Cargo.Test.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Projects/Rust.Libraries/game-framework-pro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/01_ui2.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/_00_program/program.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/_00_program/program.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/game_framework_pro/program.rs": "true",
+    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/tests_00.rs": "true",
+    "org.rust.first.attach.projects": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/Cargo.toml": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/Cargo.toml": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Rust",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src\game_framework_pro" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src\game_framework_pro" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Rust.Libraries\game-framework-pro\game-framework-pro-tests\src\game_framework_pro" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src\framework" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src\framework" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src\extensions" />
+      <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro_tests\src" />
+    </key>
+  </component>
+  <component name="RsExternalLinterProjectSettings">
+    <option name="runOnTheFly" value="false" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="RustfmtProjectSettings">
+    <option name="useRustfmt2" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="" />
+      <created>1754206330336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754206330336</updated>
+      <workItem from="1754206335971" duration="391000" />
+      <workItem from="1754206763599" duration="8167000" />
+      <workItem from="1754222822278" duration="262000" />
+      <workItem from="1754223116932" duration="8440000" />
+      <workItem from="1754231817063" duration="1795000" />
+      <workItem from="1754233661980" duration="15169000" />
+      <workItem from="1754291289353" duration="900000" />
+      <workItem from="1754375086207" duration="10957000" />
+      <workItem from="1754391126108" duration="5542000" />
+      <workItem from="1754400448814" duration="4930000" />
+      <workItem from="1754465323975" duration="47000" />
+      <workItem from="1754471186297" duration="53000" />
+      <workItem from="1754493038366" duration="19000" />
+      <workItem from="1754500593576" duration="365000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

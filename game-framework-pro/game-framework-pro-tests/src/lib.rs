@@ -14,6 +14,5 @@ pub mod game_framework_pro {
     include!("game_framework_pro/01_ui.rs");
     include!("game_framework_pro/02_app.rs");
     include!("game_framework_pro/03_game.rs");
+    pub mod tests_00;
 }
-
-pub mod tests_00;

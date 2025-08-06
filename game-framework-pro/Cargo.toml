@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "game-framework-pro",
+    "game-framework-pro-tests"
+]
+resolver = "2"

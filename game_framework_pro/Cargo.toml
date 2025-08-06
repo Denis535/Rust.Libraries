@@ -1,6 +1,0 @@
-[workspace]
-members = [
-    "game_framework_pro",
-    "game_framework_pro_tests"
-]
-resolver = "2"

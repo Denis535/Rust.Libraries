@@ -3,12 +3,12 @@
 version = 4
 
 [[package]]
-name = "game_framework_pro"
+name = "game-framework-pro"
 version = "1.0.0"
 
 [[package]]
-name = "game_framework_pro_tests"
+name = "game-framework-pro-tests"
 version = "1.0.0"
 dependencies = [
- "game_framework_pro",
+ "game-framework-pro",
 ]
