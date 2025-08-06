@@ -4,9 +4,9 @@ version = "1.0.1"
 edition = "2021"
 authors = ["Denis535"]
 description = "A library that allows you to make one struct a child of another."
+repository = "https://github.com/Denis535/Rust.Libraries/tree/main/child-of"
 readme = "../README.md"
 license = "MIT"
-repository = "https://github.com/Denis535/Rust.Libraries/tree/main/child-of"
 categories = ["development-tools"]
 keywords = ["OOP", "inheritance"]
 
