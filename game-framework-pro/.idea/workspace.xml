@@ -14,12 +14,7 @@
     </cargoProject>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/lib.rs" afterDir="false" />
-    </list>
+    <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +132,7 @@
       <workItem from="1754493038366" duration="19000" />
       <workItem from="1754500593576" duration="2049000" />
       <workItem from="1754502695690" duration="1739000" />
-      <workItem from="1754551123223" duration="2637000" />
+      <workItem from="1754551123223" duration="2665000" />
     </task>
     <servers />
   </component>
