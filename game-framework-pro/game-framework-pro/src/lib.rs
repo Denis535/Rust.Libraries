@@ -8,7 +8,7 @@ pub mod game_framework_pro {
     include!("game_framework_pro/00.program.rs");
     include!("game_framework_pro/01.ui.rs");
     include!("game_framework_pro/02.app.rs");
-    include!("game_framework_pro/03.domain");
+    include!("game_framework_pro/03.domain.rs");
     pub mod extensions {
         use crate::std::rc::*;
         use crate::std::cell::*;

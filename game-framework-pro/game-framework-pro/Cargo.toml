@@ -3,5 +3,13 @@ name = "game-framework-pro"
 version = "1.0.0"
 edition = "2021"
 
+authors = ["Denis535"]
+description = "The framework that allows you to design high-quality architecture for your game project."
+repository = "https://github.com/Denis535/Rust.Libraries/tree/main/game-framework-pro"
+readme = "../README.md"
+license = "MIT"
+categories = ["game-development", "game-engines"]
+keywords = ["game", "framework", "architecture", "best-practice"]
+
 [dependencies]
 child-of = "1"
