@@ -16,6 +16,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1ffe8e54-e2cd-4ff1-9e47-3913b54088fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/03.game.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/game_framework_pro/03.domain.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro-tests/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro-tests/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/03.game.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/game_framework_pro/03.domain.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game-framework-pro/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/game-framework-pro/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,49 +51,49 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Cargo.Run.executor": "Run",
-    "Cargo.Test tests_00.executor": "Run",
-    "Cargo.Test.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.rust.reset.selective.auto.import": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Projects/Rust.Libraries/game-framework-pro",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
-    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/00.program.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/01.ui.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/02.app.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/03.game.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro.extensions/00.program.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro.extensions/01.ui.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/00.program.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/01.ui.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/02.app.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/03.game.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/01_ui2.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/_00_program/program.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/_00_program/program.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/game_framework_pro/program.rs": "true",
-    "org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/tests_00.rs": "true",
-    "org.rust.first.attach.projects": "true",
-    "org.rust.hideNoCargoProjectNotificationsD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/Cargo.toml": "true",
-    "org.rust.hideNoCargoProjectNotificationsD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/Cargo.toml": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Rust",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cargo.Run.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test tests_00.executor&quot;: &quot;Run&quot;,
+    &quot;Cargo.Test.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Rust.Libraries/game-framework-pro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/00.program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/01.ui.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/02.app.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/src/game_framework_pro/03.game.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro.extensions/00.program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro.extensions/01.ui.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/00.program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/01.ui.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/02.app.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/src/game_framework_pro/03.game.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/01_ui2.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro/src/_00_program/program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/_00_program/program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/game_framework_pro/program.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.disableDetachedFileInspectionD:/Projects/Rust.Libraries/game_framework_pro/game_framework_pro_tests/src/tests_00.rs&quot;: &quot;true&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;org.rust.hideNoCargoProjectNotificationsD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro-tests/Cargo.toml&quot;: &quot;true&quot;,
+    &quot;org.rust.hideNoCargoProjectNotificationsD:/Projects/Rust.Libraries/game-framework-pro/game-framework-pro/Cargo.toml&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Rust&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\Rust.Libraries\game_framework_pro\game_framework_pro\src" />
@@ -133,7 +138,8 @@
       <workItem from="1754471186297" duration="53000" />
       <workItem from="1754493038366" duration="19000" />
       <workItem from="1754500593576" duration="2049000" />
-      <workItem from="1754502695690" duration="1627000" />
+      <workItem from="1754502695690" duration="1739000" />
+      <workItem from="1754551123223" duration="1981000" />
     </task>
     <servers />
   </component>
