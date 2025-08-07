@@ -4,9 +4,9 @@ version = 4
 
 [[package]]
 name = "child-of"
-version = "1.0.2"
+version = "1.0.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "bf0bb7f74f14fa19f0fb9d3747d93471d4c99695b19e1089161e4ee28780064b"
+checksum = "f9e339063527758e0d6551979cb34fe49f1321fe5c171a6e7fff685a0e4d5eef"
 dependencies = [
  "proc-macro2",
  "quote",
